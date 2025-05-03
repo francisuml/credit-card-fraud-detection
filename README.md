@@ -2,6 +2,11 @@
 
 This project detects anomalies in credit card transactions using supervised learning. Built using the `creditcard.csv` dataset.
 
+## Dataset
+The original `creditcard.csv` dataset is not included due to GitHub file size restrictions.  
+You can download it from [Kaggle](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud).
+Place it in the `data/` directory to run the notebook.
+
 ## 📁 Project Structure
 .
 ├── src/ # Python scripts
