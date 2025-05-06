@@ -31,9 +31,7 @@ Place it in the `data/` directory to run the notebook.
 pip install -r requirements.txt
 
 🚀 Run
-Jupyter Notebook or:
-
-python src/main.py
+Jupyter Notebook 
 
 📊 Results
 Precision: 95.40%
