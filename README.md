@@ -15,6 +15,7 @@ Place it in the `data/` directory to run the notebook.
 ├── README.md
 ├── .gitignore
 ├── requirements.txt
+├── LICENSE
 
 ## 🛠️ Features
 
@@ -44,5 +45,8 @@ F1 Score: 89.73%
 
 AUC-ROC: 0.99+
 
-📁 Data Source
-Kaggle - Credit Card Fraud Detection
+## Author
+
+Francis Carl Sumile 
+Machine Learning Practitioner | Data Scientist
+GitHub: github.com/francisuml
