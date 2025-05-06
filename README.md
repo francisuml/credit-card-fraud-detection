@@ -32,9 +32,7 @@ Place it in the `data/` directory to run the notebook.
 pip install -r requirements.txt
 
 🚀 Run
-Jupyter Notebook or:
-
-python src/main.py
+Jupyter Notebook 
 
 📊 Results
 Precision: 95.40%
@@ -45,7 +43,7 @@ F1 Score: 89.73%
 
 AUC-ROC: 0.99+
 
-## Author
+Author
 
 Francis Carl Sumile 
 Machine Learning Practitioner | Data Scientist
